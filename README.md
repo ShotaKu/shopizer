@@ -85,4 +85,4 @@ ChatOps <https://shopizer.slack.com>
 
 More information is available on shopizer web site here <http://www.shopizer.com>
 
-
+- Edit test
